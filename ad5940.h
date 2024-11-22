@@ -4001,11 +4001,11 @@
 #define AGPIO_Pin0                  0x01  /**< AFE GPIO0, only available on AD5940 and AD5941, not ADuCM355 */
 #define AGPIO_Pin1                  0x02  /**< AFE GPIO1, only available on AD5940 and AD5941, not ADuCM355 */
 #define AGPIO_Pin2                  0x04  /**< AFE GPIO2, only available on AD5940 and AD5941, not ADuCM355 */
-#define AGPIO_Pin3                  0x08  /**< AFE GPIO3, only available on AD5941. */
-#define AGPIO_Pin4                  0x10  /**< AFE GPIO4, only available on AD5941. */
-#define AGPIO_Pin5                  0x20  /**< AFE GPIO5, only available on AD5941. */
-#define AGPIO_Pin6                  0x40  /**< AFE GPIO6, only available on AD5941. */
-#define AGPIO_Pin7                  0x80  /**< AFE GPIO7, only available on AD5941. */
+#define AGPIO_Pin3                  0x08  /**< AFE GPIO3, only available on AD5940. */
+#define AGPIO_Pin4                  0x10  /**< AFE GPIO4, only available on AD5940. */
+#define AGPIO_Pin5                  0x20  /**< AFE GPIO5, only available on AD5940. */
+#define AGPIO_Pin6                  0x40  /**< AFE GPIO6, only available on AD5940. */
+#define AGPIO_Pin7                  0x80  /**< AFE GPIO7, only available on AD5940. */
 /** @} */
 
 /**
