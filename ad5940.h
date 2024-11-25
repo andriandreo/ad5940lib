@@ -4014,7 +4014,7 @@
 */
 #define GP0_INT                     0        /**< Interrupt Controller 0 output */
 #define GP0_TRIG                    1        /**< Sequence0 trigger */
-#define GP0_SYNC                    2        /**< Use Sequencer to controll GP0 output level */
+#define GP0_SYNC                    2        /**< Use Sequencer to control GP0 output level */
 #define GP0_GPIO                    3        /**< Normal GPIO function */
 /** @} */
 
@@ -4024,7 +4024,7 @@
 */  
 #define GP1_GPIO                    (0<<2)   /**< Normal GPIO function */
 #define GP1_TRIG                    (1<<2)   /**< Sequence1 trigger */
-#define GP1_SYNC                    (2<<2)   /**< Use Sequencer to controll GP1 output level */
+#define GP1_SYNC                    (2<<2)   /**< Use Sequencer to control GP1 output level */
 #define GP1_SLEEP                   (3<<2)   /**< Internal Sleep Signal */
 /** @} */
 
@@ -4034,7 +4034,7 @@
 */  
 #define GP2_PORB                    (0<<4)   /**< Internal Power ON reset signal */
 #define GP2_TRIG                    (1<<4)   /**< Sequence1 trigger */
-#define GP2_SYNC                    (2<<4)   /**< Use Sequencer to controll GP2 output level */
+#define GP2_SYNC                    (2<<4)   /**< Use Sequencer to control GP2 output level */
 #define GP2_EXTCLK                  (3<<4)   /**< External Clock input(32kHz/16MHz/32MHz) */
 /** @} */
 
@@ -4044,7 +4044,7 @@
 */  
 #define GP3_GPIO                    (0<<6)   /**< Normal GPIO function */
 #define GP3_TRIG                    (1<<6)   /**< Sequence3 trigger */
-#define GP3_SYNC                    (2<<6)   /**< Use Sequencer to controll GP3 output level */
+#define GP3_SYNC                    (2<<6)   /**< Use Sequencer to control GP3 output level */
 #define GP3_INT0                    (3<<6)   /**< Interrupt Controller 0 output */
 /** @} */
 
@@ -4055,7 +4055,7 @@
 */  
 #define GP4_GPIO                    (0<<8)   /**< Normal GPIO function */
 #define GP4_TRIG                    (1<<8)   /**< Sequence0 trigger */
-#define GP4_SYNC                    (2<<8)   /**< Use Sequencer to controll GP4 output level */
+#define GP4_SYNC                    (2<<8)   /**< Use Sequencer to control GP4 output level */
 #define GP4_INT1                    (3<<8)   /**< Interrupt Controller 1 output */
 /** @} */
 
@@ -4066,7 +4066,7 @@
 */  
 #define GP5_GPIO                    (0<<10)  /**< Internal Power ON reset signal */
 #define GP5_TRIG                    (1<<10)  /**< Sequence1 trigger */
-#define GP5_SYNC                    (2<<10)  /**< Use Sequencer to controll GP5 output level */
+#define GP5_SYNC                    (2<<10)  /**< Use Sequencer to control GP5 output level */
 #define GP5_EXTCLK                  (3<<10)  /**< External Clock input(32kHz/16MHz/32MHz) */
 /** @} */
 
@@ -4077,7 +4077,7 @@
 */  
 #define GP6_GPIO                    (0<<12)  /**< Normal GPIO function */
 #define GP6_TRIG                    (1<<12)  /**< Sequence2 trigger */
-#define GP6_SYNC                    (2<<12)  /**< Use Sequencer to controll GP6 output level */
+#define GP6_SYNC                    (2<<12)  /**< Use Sequencer to control GP6 output level */
 #define GP6_INT0                    (3<<12)  /**< Interrupt Controller 0 output */
 /** @} */
 
@@ -4088,7 +4088,7 @@
 */    
 #define GP7_GPIO                    (0<<14)  /**< Normal GPIO function */
 #define GP7_TRIG                    (1<<14)  /**< Sequence2 trigger */
-#define GP7_SYNC                    (2<<14)  /**< Use Sequencer to controll GP7 output level */
+#define GP7_SYNC                    (2<<14)  /**< Use Sequencer to control GP7 output level */
 #define GP7_INT                     (3<<14)  /**< Interrupt Controller 1 output */
 /** @} */
 
